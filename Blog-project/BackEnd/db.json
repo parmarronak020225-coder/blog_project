@@ -1,0 +1,13 @@
+{
+  "blog": [
+    {
+      "id": "3a95",
+      "author": "dfgfd",
+      "title": "asddfsd",
+      "desc": "sfdgdsfv",
+      "date": "0788-08-22",
+      "img": "https://tse4.mm.bing.net/th/id/OIP.ar4Iqk4Cjg9kMVh2VbdYCAHaFj?pid=Api&P=0&h=180"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
